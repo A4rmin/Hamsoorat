@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+openpyxl
+xlrd
+pytest
+
