@@ -42,7 +42,6 @@ If you want a generic name-to-image matching tool for other languages or naming 
    python3 -m venv venv
    source venv/bin/activate   # Linux/macOS
    venv\Scripts\activate      # Windows
-````
 
 3. Install dependencies:
 
